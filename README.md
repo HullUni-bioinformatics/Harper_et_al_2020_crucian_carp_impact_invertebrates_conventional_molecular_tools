@@ -10,15 +10,15 @@ Permanently archived at: **TBC**
 
 Notebooks to create curated reference database used in analyses (databases also available in GenBank format) [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_invertebrate_metabarcoding/tree/master/Reference_database)
 
-Notebooks to run metaBEAT pipeline [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_invertebrate_netabarcoding/tree/master/Jupyter_notebooks)
+Notebooks to run metaBEAT pipeline [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_invertebrate_metabarcoding/tree/master/Jupyter_notebooks)
 
-NCBI Sequence Read Archive (SRA) accession numbers for raw Illumina data [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_invertebrate_netabarcoding/blob/master/Data/Sample_accessions.tsv)
+NCBI Sequence Read Archive (SRA) accession numbers for raw Illumina data [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_invertebrate_metabarcoding/tree/master/Data/Sample_accessions.tsv)
 
-Taxonomic assignment results [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_invertebrate_netabarcoding/tree/master/Data/Taxonomic_Assignment_Results)
+Taxonomic assignment results [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_invertebrate_metabarcoding/tree/master/Data/Taxonomic_Assignment_Results)
 
-R scripts used to analyse metaBEAT output and produce figures [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_invertebrate_netabarcoding/tree/master/R%20scripts)
+R scripts used to analyse metaBEAT output and produce figures [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_invertebrate_metabarcoding/tree/master/R_scripts)
 
-Sample metadata needed to run analyses in R [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_invertebrate_netabarcoding/tree/master/Data/Sample_Metadata)
+Sample metadata needed to run analyses in R [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_invertebrate_metabarcoding/tree/master/Data/Sample_Metadata)
 
 
 ## Instructions to set up dependencies for data processing and analyses
