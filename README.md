@@ -1,4 +1,4 @@
-# Harper_et_al_2018_invertebrate_metabarcoding
+# Harper *et al.* (2018) Invertebrate metabarcoding
 
 Data processing workflow and supplementary data for:
 
