@@ -8,7 +8,7 @@ Permanently archived at: **TBC**
 
 ## Contents
 
-Notebooks to create curated reference database used in analyses (databases also available in GenBank format) [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_invertebrate_netabarcoding/tree/master/Reference_database)
+Notebooks to create curated reference database used in analyses (databases also available in GenBank format) [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_invertebrate_metabarcoding/tree/master/Reference_database)
 
 Notebooks to run metaBEAT pipeline [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_invertebrate_netabarcoding/tree/master/Jupyter_notebooks)
 
