@@ -54,9 +54,10 @@ This will download the metaBEAT image (if not yet present on your computer) and 
 ## Data processing workflow as Jupyter notebooks
 
 Raw illumina data has been deposited on the NCBI SRA:
-- BioProject: TBC
-- BioSample accessions: TBC
-- SRA accessions: TBC
+- Study: SRP163672
+- BioProject: PRJNA494857
+- BioSample accessions: SAMN10181701 - SAMN10182084 (bulk tissue DNA) and SAMN10187732 - SAMN10188115 (eDNA)
+- SRA accessions: SRR7969394 - SRR796977 (bulk tissue DNA) and SRR7985814 - SRR7986197 (eDNA)
 
 The sample specific accessions can be found [here](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_invertebrate_metabarcoding/tree/master/Data/Sample_accessions.tsv). Before following the workflow for data processing, you'll need to download the raw reads from the SRA. To download the raw read data, you can follow the steps in this [Jupyter notebook](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_invertebrate_metabarcoding/tree/master/raw_reads/How_to_download_from_SRA.ipynb).
 
