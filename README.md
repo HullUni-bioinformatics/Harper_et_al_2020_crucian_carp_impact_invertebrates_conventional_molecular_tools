@@ -1,8 +1,9 @@
-# Harper *et al.* (2018) Invertebrate metabarcoding
+# Harper *et al.* (2020)
 
 Data processing workflow and supplementary data for:
 
-Harper *et al.* Assessing the impact of the threatened crucian carp (*Carassius carassius*) on pond invertebrate diversity - a comparison of conventional and molecular tools.
+Harper *et al.* (2020) Assessing the impact of the threatened crucian carp (*Carassius carassius*) on pond invertebrate diversity - a comparison of conventional and molecular tools.
+
 Permanently archived at: [![DOI](https://zenodo.org/badge/151701213.svg)](https://zenodo.org/badge/latestdoi/151701213)
 
 
