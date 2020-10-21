@@ -2,7 +2,7 @@
 
 Data processing workflow and supplementary data for:
 
-Harper *et al.* (2020) Assessing the impact of the threatened crucian carp (*Carassius carassius*) on pond invertebrate diversity - a comparison of conventional and molecular tools.
+Harper *et al.* (2020) Assessing the impact of the threatened crucian carp (*Carassius carassius*) on pond invertebrate diversity - a comparison of conventional and molecular tools.*Molecular Ecology*. https://doi.org/10.1111/mec.15670
 
 Permanently archived at: [![DOI](https://zenodo.org/badge/151701213.svg)](https://zenodo.org/badge/latestdoi/151701213)
 
